@@ -1,0 +1,4 @@
+repository "Cho Bros Adventure Quest@firstjyy@cloud"
+  path "/"
+    br "/main"
+    co "/main"
